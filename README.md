@@ -101,4 +101,7 @@ int main()
 <img src="./images/both.png" width="300" title="both"/>
 
 Go to the next math.
-I have sent you a request to end the programme.
+</br>
+I have sent you a request to end the programme.  
+
+Good bye.
