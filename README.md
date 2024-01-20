@@ -100,3 +100,4 @@ int main()
 
 <img src="./images/both.png" width="300" title="both"/>
 
+Go to the next math.
