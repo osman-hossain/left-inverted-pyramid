@@ -105,3 +105,19 @@ Go to the next math.
 I have sent you a request to end the programme.  
 
 Good bye.
+
+|Name|Number|Grade|
+|----|------|-----|
+|serang|80|A+|
+|dipraz|68|A-|
+|fardin|55|B|
+|kashem|40|C|
+|rakib|33|D|
+|alim|32|F|  
+
+~~_Strike_~~ through
+
+~~strike~~through
+
+`#include<stdio.h>`
+
